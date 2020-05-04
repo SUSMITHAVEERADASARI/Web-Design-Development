@@ -10,7 +10,7 @@ Welcome to Web Design Development -apssdc's documentation!
    :maxdepth: 2
    :numbered: 
       introdution to inro.rst
-      django.d
+      django.md
 
 
 
